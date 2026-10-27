@@ -1,5 +1,5 @@
 # bank_account.py
-# Defines the BankAccount class used by the Bank of Spencer program.
+# Defines the BankAccount class used by Aidan's Goy Bank program.
 
 import random
 
