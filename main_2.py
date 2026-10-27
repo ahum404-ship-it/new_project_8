@@ -1,5 +1,5 @@
 # main.py
-# Bank of Spencer - a simple banking program.
+# Aidan's Goy Bank - a simple banking program.
 
 import math
 
